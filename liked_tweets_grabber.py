@@ -44,7 +44,7 @@ def main():
     json_response = connect_endpoint(url, tweet_fields)
 
     grabbed_tweets = open("liked_tweets.txt", 'w')    
-    grabbed_tweets.write(str(json.dumps(json_response, indent=4, sort_keys=True)))
+    grabbed_tweets.write(json.dumps(json_response, indent=4, sort_keys=True))
     grabbed_tweets.close()
 
 if __name__ == "__main__":
