@@ -25,7 +25,7 @@ def bearer_ouath(request):
     # twitterDev project authentication
     request.headers["Authorization"] = f"Bearer {bearer_token}"
     request.headers["User-Agent"] = "liked_twt_grabber"
-    return r
+    return request
 
 def connect_endpoint(url, tweet_fields):
     response = requests.request(
@@ -37,12 +37,16 @@ def connect_endpoint(url, tweet_fields):
                 response.status_code, response.text
             )
         )
-    return repsonse.json()
+    return response.json()
 
 def main():
     url, tweet_fields = create_url()
     json_response = connect_endpoint(url, tweet_fields)
-    
+
+    grabbed_tweets = open("liked_tweets.txt", 'w')    
+    grabbed_tweets.write(str(json.dumps(json_response, indent=4, sort_keys=True)))
+    grabbed_tweets.close()
+
 if __name__ == "__main__":
     main()
 

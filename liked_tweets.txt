@@ -1,0 +1,548 @@
+{
+    "data": [
+        {
+            "author_id": "1519533712949583872",
+            "id": "1546674377181335552",
+            "lang": "zxx",
+            "text": "https://t.co/s9A2uQ7M7R"
+        },
+        {
+            "author_id": "4735168895",
+            "id": "1546688702558224385",
+            "lang": "en",
+            "text": "They call me Stewie Griffin the way I want to suck on Lois' tits"
+        },
+        {
+            "author_id": "1398567188",
+            "id": "1546461174593724416",
+            "lang": "en",
+            "text": "How often do you let yourself make the mistake of assuming that someone unreasonable can be reasoned with?"
+        },
+        {
+            "author_id": "792882901",
+            "id": "1514717128695459845",
+            "lang": "en",
+            "text": "average conversation with an NFT bro. I promise you will lose brain cells reading this. https://t.co/PmDaVk08tC"
+        },
+        {
+            "author_id": "1340325816106954755",
+            "id": "1544605356294381569",
+            "lang": "en",
+            "text": "Moribus skin leaked #FortniteLeaks #Fortnite https://t.co/X6BiW5iBMM"
+        },
+        {
+            "author_id": "344538810",
+            "id": "1544498057550516224",
+            "lang": "en",
+            "text": "how should I play after freezing the minions? https://t.co/tMqeBjmJrp"
+        },
+        {
+            "author_id": "1516169714896097281",
+            "id": "1543717758667730944",
+            "lang": "en",
+            "text": "As you celebrate the 4th tomorrow, remember our President's inspiring words about this great nation. https://t.co/EcNoXNuY8l"
+        },
+        {
+            "author_id": "1406122565211394048",
+            "id": "1543664985917820928",
+            "lang": "zxx",
+            "text": "https://t.co/C7Aynmst6j"
+        },
+        {
+            "author_id": "1302230772020056064",
+            "id": "1543732981235388423",
+            "lang": "zxx",
+            "text": "https://t.co/lYFQLltqXA"
+        },
+        {
+            "author_id": "431889730",
+            "id": "1539981571112960001",
+            "lang": "en",
+            "text": "You\u2019ve already sunk so much time into league of legends, you can\u2019t stop now."
+        },
+        {
+            "author_id": "3598110017",
+            "id": "1537371152032485377",
+            "lang": "zxx",
+            "text": "https://t.co/IBoDjB9aza"
+        },
+        {
+            "author_id": "521104742",
+            "id": "1524618428350222342",
+            "lang": "en",
+            "text": "Riot Servers dying and Nunu ult shutting off my lights https://t.co/AEmBfB3LgS"
+        },
+        {
+            "author_id": "1276071794286440448",
+            "id": "1524097081639645189",
+            "lang": "en",
+            "text": "Chainsaw man fans be like yoooo this arc is fire https://t.co/5cxF4Urkcq"
+        },
+        {
+            "author_id": "369506019",
+            "id": "1523985507524489216",
+            "lang": "en",
+            "text": "Majima being the only person happy to see Kiryu again after he got off jail is just so bittersweet to me, imagine you living everyday waiting to meet your loved ones again and the only person who cares is some guy who shoved a knife in your face once"
+        },
+        {
+            "author_id": "4482633575",
+            "id": "1517594668845998081",
+            "lang": "en",
+            "text": "hell is dating a pm intern https://t.co/5dOdE6ZCMM"
+        },
+        {
+            "author_id": "764090094470987776",
+            "id": "1513869169887956994",
+            "lang": "en",
+            "text": "Sex is a very intimate and sacred act. Remember your body is a temple and you shouldn't be sharing it with anyone who plays Aatrox Jax Darius"
+        },
+        {
+            "author_id": "1381176565430579200",
+            "id": "1510391734555279362",
+            "lang": "en",
+            "text": "@mydickteeny @ahrarei what the fuck is this"
+        },
+        {
+            "author_id": "1151597048048869376",
+            "id": "1509577736184021006",
+            "lang": "en",
+            "text": "12.6 is lookin' pretty wild though \ud83d\udc40 https://t.co/B7KCfyi1o5"
+        },
+        {
+            "author_id": "1097721532913192960",
+            "id": "1506104448015347713",
+            "lang": "en",
+            "text": "ur 20s are for discovering what the fuck is wrong with u"
+        },
+        {
+            "author_id": "330105456",
+            "id": "1504299264838615041",
+            "lang": "en",
+            "text": "The masks go on and the cases go down and the masks come off and the cases go up and the masks go on and the cases go down and the masks come off and the cases go up and the masks go on and the cases go down and the masks come off and the cases go up and the masks go on and the"
+        },
+        {
+            "author_id": "1065552083326103553",
+            "id": "1502288677137186816",
+            "lang": "en",
+            "text": "In 2015, T1 had arguably the best roster of all time.\n\nMarin / Bengi / Faker / Bang / Wolf\n\nHall of famers left and right, and all of them were in their prime. The team not only won 14 domestic games in a row, but also won Worlds in dominant fashion."
+        },
+        {
+            "author_id": "991322275",
+            "id": "1471918911465611273",
+            "lang": "en",
+            "text": "This is the \u201cW Keyboard\u201d \u2013 designed for that member in your squad always charging into battle when playing Halo Infinite.\n\nShift + W as much as you want in Halo Infinite, now available on PC Game Pass: https://t.co/mlKvm7SFUj https://t.co/cHmPTfguvZ"
+        },
+        {
+            "author_id": "4735168895",
+            "id": "1496422038977884163",
+            "lang": "en",
+            "text": "Lizzie playing around the crit I see https://t.co/jwsTm2qkMf"
+        },
+        {
+            "author_id": "4187296672",
+            "id": "1486361067097841676",
+            "lang": "es",
+            "text": "Oye es obligatorio por ley que todas las p\u00e1ginas de las administraciones p\u00fablicas funcionen como la putisima mierda?"
+        },
+        {
+            "author_id": "2381719428",
+            "id": "1486414576476471301",
+            "lang": "en",
+            "text": "kind of absurd and telling that the ONLY good Pyke player on the entire server @Davemonlol is so insanely good at the champ they actually decided to push nerfs for a single player (who avgs 3cs/min as pyke mid yet drops 38 kill games vs rioters) ffs man this company can't be real"
+        },
+        {
+            "author_id": "1302230772020056064",
+            "id": "1477358866136539138",
+            "lang": "zxx",
+            "text": "https://t.co/JOIwWDVfls"
+        },
+        {
+            "author_id": "4482633575",
+            "id": "1463985716489330697",
+            "lang": "en",
+            "text": "my coworkers: make sure you use Jira\nmy brain: https://t.co/Di33HotudA"
+        },
+        {
+            "author_id": "2371187780",
+            "id": "1432548844756144129",
+            "lang": "en",
+            "text": "bro why did they buff top lane again?? https://t.co/3m2G6Bp7sy"
+        },
+        {
+            "author_id": "234644705",
+            "id": "1424448623161532421",
+            "lang": "en",
+            "text": "Hey @dignitas I will send some burger flipers down there today. \n\nPlease treat them well. https://t.co/HZcy8qXCCN"
+        },
+        {
+            "author_id": "392513215",
+            "id": "1417005292542304257",
+            "lang": "en",
+            "text": "I've never played a game like tarkov where it feels like the devs hate the casual players so much it's kinda funny"
+        },
+        {
+            "author_id": "756244775033040896",
+            "id": "1406060163623051269",
+            "lang": "en",
+            "text": "Thank you LS \ud83d\ude4f #LPP https://t.co/5PAWZRx04d https://t.co/nkrZQuIXYt"
+        },
+        {
+            "author_id": "3185781901",
+            "id": "1405428209512980480",
+            "lang": "en",
+            "text": "pathetic, i've seen so many guys fart in mic on stream and people KEKW and love it and now there is ASMR farting streams y'all are mad? seriously grow up https://t.co/H9oH1SkGxb"
+        },
+        {
+            "author_id": "65544386",
+            "id": "1404511312223342593",
+            "lang": "en",
+            "text": "Smell ya later losers I\u2019m outta here https://t.co/sxn7dOLJKO"
+        },
+        {
+            "author_id": "1230676218770579456",
+            "id": "1400245761854652417",
+            "lang": "en",
+            "text": "A professional sports gambler used analytics to turn a $700,000 loan into more than $300 million.\n\nThis is the wild story \ud83d\udc47\ud83d\udc47\ud83d\udc47"
+        },
+        {
+            "author_id": "1452520626",
+            "id": "1399945792211673089",
+            "lang": "en",
+            "text": "wtf jhin zhao? https://t.co/W4WcfiMaW8"
+        },
+        {
+            "author_id": "436782436",
+            "id": "1370032932878913544",
+            "lang": "en",
+            "text": "I grinded eternal return for 13 hours straight I am addicted."
+        },
+        {
+            "author_id": "701545176037130241",
+            "id": "1362592860764319752",
+            "lang": "en",
+            "text": "Me: So that Mars rover just landed today\nMy Mom: Landed where? The Moon?"
+        },
+        {
+            "author_id": "343017494",
+            "id": "1360039062824833028",
+            "lang": "en",
+            "text": "insult my mother or call me a racist slur but don't you dare question mark ping me"
+        },
+        {
+            "author_id": "989155499026407424",
+            "id": "1354600999835607041",
+            "lang": "en",
+            "text": "Thank you to whoever explained this - @reddit is incredible \n\n\ud83d\ude29\ud83e\udd19\ud83c\udffb https://t.co/zKRlbP41gJ"
+        },
+        {
+            "author_id": "1349856571988258826",
+            "id": "1351275051170062336",
+            "lang": "zxx",
+            "text": "https://t.co/KkuwQTvgmz"
+        },
+        {
+            "author_id": "1327824893656829954",
+            "id": "1351248398125555715",
+            "lang": "zxx",
+            "text": "https://t.co/u8qyAx2ZlF"
+        },
+        {
+            "author_id": "289853473",
+            "id": "1347784165383692289",
+            "lang": "en",
+            "text": "it's never too late to start pursuing a career in middle management"
+        },
+        {
+            "author_id": "1339290251362070528",
+            "id": "1344239977509445638",
+            "lang": "und",
+            "text": "@LiquidValorant @TeamLiquidCS \ud83d\ude47\u200d\u2640\ufe0f"
+        },
+        {
+            "author_id": "767780573981081600",
+            "id": "1340722221824704513",
+            "lang": "in",
+            "text": "Jggap sry https://t.co/9GosW9u0nx"
+        },
+        {
+            "author_id": "320349454",
+            "id": "1339329791737163787",
+            "lang": "en",
+            "text": "what the fuck is this world turning into https://t.co/ZkMJ51nSZo"
+        },
+        {
+            "author_id": "4482633575",
+            "id": "1336483879671242753",
+            "lang": "en",
+            "text": "i dont chase girls but if she can reverse a linked list in place i might jog a little"
+        },
+        {
+            "author_id": "979060463542657024",
+            "id": "1328490003568201730",
+            "lang": "en",
+            "text": "Official: @RekklesLoL to join @G2esports for the 2021 Season.\n\nRead: https://t.co/avGkcqbU6a https://t.co/KYDBowdCXh"
+        },
+        {
+            "author_id": "4351743432",
+            "id": "1321165207977168897",
+            "lang": "zxx",
+            "text": "https://t.co/YurrFFx14L"
+        },
+        {
+            "author_id": "964529942",
+            "id": "1310487618019360768",
+            "lang": "en",
+            "text": "@LSXYZ9 Wouldn\u2019t a treaty benefit both our economies and create powerful trade partnerships thusly increasing our GDP?"
+        },
+        {
+            "author_id": "944864788336824321",
+            "id": "1309794847411376129",
+            "lang": "en",
+            "text": "fuck yes"
+        },
+        {
+            "author_id": "1217558172929380352",
+            "id": "1307897170285133824",
+            "lang": "zxx",
+            "text": "https://t.co/HOx9U3GP6c"
+        },
+        {
+            "author_id": "4844061977",
+            "id": "1305253470077845507",
+            "lang": "en",
+            "text": "Choose your fighter https://t.co/GN4mKd0Tsj"
+        },
+        {
+            "author_id": "1961402887",
+            "id": "1299272727648448513",
+            "lang": "en",
+            "text": "Both S04 and MAD would make good representatives for LEC at worlds but only one can make it. \n\nMiracle run vs consistently being one of the regions best team. \n\nI love good storylines but my heart would break for the lions if they don't make it after such a year. \n\n3-2 MAD"
+        },
+        {
+            "author_id": "293413226",
+            "id": "1298721888676454410",
+            "lang": "und",
+            "text": "@Akaadian @joanneofarclol \ud83e\udd7a\ud83d\udc4d"
+        },
+        {
+            "author_id": "2174576629",
+            "id": "1298642933856468994",
+            "lang": "en",
+            "text": "I'd probably be a good surgeon if it weren't for all these damn \"laws\""
+        },
+        {
+            "author_id": "2455740283",
+            "id": "1297194550340067328",
+            "lang": "en",
+            "text": "I\u2019m going to give 10 random people who retweet this tweet $10,000 EACH! You must be following @Pulte and me so we can dm you if you win $10,000! Ends in 72 hours, will show proof \u2764\ufe0f"
+        },
+        {
+            "author_id": "1285050175266799616",
+            "id": "1296735976262311936",
+            "lang": "en",
+            "text": "A super fed RENGAR gets a game changing gank on @Atlustv ! #LCK https://t.co/SHkkaKFtEQ"
+        },
+        {
+            "author_id": "74274804",
+            "id": "1296581053608386562",
+            "lang": "zxx",
+            "text": "https://t.co/Tyh8Oqe208"
+        },
+        {
+            "author_id": "64264522",
+            "id": "1295463701420609537",
+            "lang": "en",
+            "text": "@Miguelitoooh_ @SypherPK @timthetatman if he win's its over."
+        },
+        {
+            "author_id": "1171202965786562565",
+            "id": "1293711299717869569",
+            "lang": "en",
+            "text": "holy shit the smp war animatic is so good"
+        },
+        {
+            "author_id": "183905912",
+            "id": "1293447602344800259",
+            "lang": "en",
+            "text": "According to life statistics a small percentage of people have a birthday today, and I\u2019m one of those people\n\nLMAO thank you for all the happy birthday wishes :)"
+        },
+        {
+            "author_id": "826288847562559488",
+            "id": "1293446350646865920",
+            "lang": "en",
+            "text": "one of those nights https://t.co/t82W0ZSoeg"
+        },
+        {
+            "author_id": "1171202965786562565",
+            "id": "1293438607609470987",
+            "lang": "en",
+            "text": "happy birthday and happy 7mil to user @DreamWasTaken !!\n\n[#HappyDreamDay #HappyBirthdayDream #dreamfanart #dream7mil #dreamwastaken @dreamwastaken2] https://t.co/ejlpySmLvq"
+        },
+        {
+            "author_id": "2494302799",
+            "id": "1292900651488378886",
+            "lang": "de",
+            "text": "Celebrating 3-0 week \nEsse einen K\u00f6ftespie\u00df ohne reden https://t.co/V628vi60vq"
+        },
+        {
+            "author_id": "1100100471744839680",
+            "id": "1292929082745733120",
+            "lang": "en",
+            "text": "SPONGEBOB FACT: Stephen Hillenburg did not want any spinoff shows when he was alive, but now that he is dead, Nickelodeon has decided to piss on his grave as much as they possibly can. New show starring Patrick coming soon \ud83d\ude44 https://t.co/AvliCU2wKH"
+        },
+        {
+            "author_id": "1452520626",
+            "id": "1291914646534811648",
+            "lang": "en",
+            "text": "\ud83d\udcde HELLO FENIX \ud83d\udcde C9 HERE \ud83d\udcde CHECK PAYPAL \ud83d\udcde #LCS"
+        },
+        {
+            "author_id": "1171202965786562565",
+            "id": "1291824983820435463",
+            "lang": "en",
+            "text": "who's there? (he's babie)\n\n#marklee #nct127 #nctu #nct_u #nctfanart #NCT #NCTmark #markleefanart #\ub9c8\ud06c #kpop #kpopfanart \n(belated mark day post!) https://t.co/zeCxlgzNX1"
+        },
+        {
+            "author_id": "2579706949",
+            "id": "1291405155418681344",
+            "lang": "en",
+            "text": "\"DAYLIGHT\" w/ @diplo out now. \n\nhttps://t.co/Ez5vUK3SWB https://t.co/oPU5ZhlBWY"
+        },
+        {
+            "author_id": "964529942",
+            "id": "1290758541633085443",
+            "lang": "en",
+            "text": "@basarinyo Sucks b https://t.co/V96q7uyblR"
+        },
+        {
+            "author_id": "1100100471744839680",
+            "id": "1290492153727053824",
+            "lang": "en",
+            "text": "@realDonaldTrump SPONGEBOB FACT: Chill out Donald, Mrs. Puff's Boating School is open as normal. SpongeBob is going to try to finally earn his boating license again soon!! https://t.co/YMp8ZeY46I"
+        },
+        {
+            "author_id": "183905912",
+            "id": "1290475617171861504",
+            "lang": "en",
+            "text": "sapnap was doing taxes and was basically using CRAYON and said \"well its all I have right now\""
+        },
+        {
+            "author_id": "1171202965786562565",
+            "id": "1286051277823188992",
+            "lang": "tl",
+            "text": "haha nice https://t.co/meLlsrTBHu"
+        },
+        {
+            "author_id": "1171202965786562565",
+            "id": "1285809411630313473",
+            "lang": "en",
+            "text": "if you bit into the new time magazine cover it would crunch"
+        },
+        {
+            "author_id": "713862214650867712",
+            "id": "1281358644668297216",
+            "lang": "en",
+            "text": "I ain't worried. Only TikTok I ever had on my phone was Ke$ha"
+        },
+        {
+            "author_id": "2355746030",
+            "id": "1273312646385655808",
+            "lang": "en",
+            "text": "played 167 games this set already :D nice https://t.co/0bvMY05yNZ"
+        },
+        {
+            "author_id": "3221761374",
+            "id": "1269847465102061571",
+            "lang": "en",
+            "text": "lets try something. https://t.co/BRDN3SVnBv"
+        },
+        {
+            "author_id": "2963716081",
+            "id": "1269804324349112321",
+            "lang": "en",
+            "text": "I guess so https://t.co/14vgOHAyju"
+        },
+        {
+            "author_id": "2795069856",
+            "id": "1250883816584933376",
+            "lang": "en",
+            "text": "@TLDoublelift Thank you Peter, very cool!"
+        },
+        {
+            "author_id": "18000989",
+            "id": "1248075729587384321",
+            "lang": "en",
+            "text": "I'm sorry but America is bad"
+        },
+        {
+            "author_id": "3038925132",
+            "id": "1247035612835663873",
+            "lang": "en",
+            "text": "I usually don't tweet about stuff like this but I think it's relatable for a lot of people and as a person who has always put mental health at the top of the pedestal, it's very important to keep looking forward.  For anybody that feels exhausted consistently or emotionally torn."
+        },
+        {
+            "author_id": "442247542",
+            "id": "1243916237824045056",
+            "lang": "en",
+            "text": "If Louis CK wants to get back on tv dude should just run for president lmao"
+        },
+        {
+            "author_id": "2672317003",
+            "id": "1237876741143580672",
+            "lang": "en",
+            "text": "Hawaii instead of Coachella?\ud83e\udd14"
+        },
+        {
+            "author_id": "3430992539",
+            "id": "1234929326883131392",
+            "lang": "en",
+            "text": "@bobqinXD crazy how in some countries college is 20k a year and in some u pay it in taxes lol"
+        },
+        {
+            "author_id": "1087833310661726208",
+            "id": "1143660765733195777",
+            "lang": "en",
+            "text": "Rest In Peace @Etika. You will be missed very much. \ud83d\udda4 Account now used to share any favorite moments from him. https://t.co/gcW8nZJa4X"
+        },
+        {
+            "author_id": "155805349",
+            "id": "1224540196433203201",
+            "lang": "en",
+            "text": "@WorldsFriendsJL @LCSOfficial @Cloud9 @FlyQuest @dignitas @TeamLiquidLoL @TSM @100Thieves @Immortals @GoldenGuardians @EvilGeniuses @clgaming Agreed and head-to-head is hard to judge with such a low sample size this early imo for overall power rankings. The surest positions are C9 and CLG who deserve their records relative to their performances."
+        },
+        {
+            "author_id": "3343494873",
+            "id": "1219469070216650752",
+            "lang": "en",
+            "text": "We're going to put a huge pot bonus to beat Evo's Smash prizes for Alpharad's Casual Invitational at Frostbite this year\n\nThe winner will get TWO pro controllers\n\nYeah you heard right. We're doubling Evo's pot. https://t.co/fEAa6obcvZ"
+        },
+        {
+            "author_id": "19976791",
+            "id": "1219293673277575169",
+            "lang": "en",
+            "text": "Our pre-season is over. Time for fun is about to become time for games.\n\nLegends in Action 2020 Episode 1 is about to go live."
+        },
+        {
+            "author_id": "747888979",
+            "id": "1214535835581898752",
+            "lang": "en",
+            "text": "any talented content creators we should work with? \ud83d\udc40\n\ncall them out"
+        },
+        {
+            "author_id": "3233484298",
+            "id": "1212161518265151488",
+            "lang": "und",
+            "text": "\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 0%"
+        },
+        {
+            "author_id": "3233484298",
+            "id": "1212161516973252608",
+            "lang": "und",
+            "text": "\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593\u2593 100%"
+        }
+    ],
+    "meta": {
+        "next_token": "7140dibdnow9c7btw452fg328spqrz4tnz0e0f05eg2eq",
+        "result_count": 90
+    }
+}
