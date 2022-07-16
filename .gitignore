@@ -1,5 +1,5 @@
 #tweet storage file
-liked_tweets.txt
+liked_tweets.json
 
 #vscode files
 *.vscode
