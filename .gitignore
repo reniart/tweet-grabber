@@ -1,5 +1,5 @@
-#tweet storage file
-liked_tweets.json
+#json files
+*.json
 
 #vscode files
 *.vscode
