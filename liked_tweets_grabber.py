@@ -28,7 +28,6 @@ def bearer_ouath(request):
 def connect_endpoint(url, tweet_fields):
     response = requests.request(
         "GET", url, auth=bearer_ouath, params=tweet_fields)
-    print(response.status_code)
     if response.status_code != 200:
         raise Exception(
             "Request returned an error: {} {}".format(
@@ -41,9 +40,8 @@ def grab_tweets():
     url, tweet_fields = create_url()
     json_response = connect_endpoint(url, tweet_fields)
 
-    grabbed_tweets = open("liked_tweets.json", 'w')    
-    grabbed_tweets.write(json.dumps(json_response, indent=4, sort_keys=True))
-    grabbed_tweets.close()
+    with open("liked_tweets.json", 'w') as grabbed_tweets:
+        grabbed_tweets.write(json.dumps(json_response, indent=4, sort_keys=True))
 
 
 

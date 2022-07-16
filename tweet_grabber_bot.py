@@ -3,7 +3,7 @@ import os
 import json
 
 from discord.ext import commands
-from liked_tweets_grabber import *
+from liked_tweets_grabber import grab_tweets
 from typing import FrozenSet
 
 # setting up discordBot 
@@ -36,8 +36,26 @@ async def on_message(msg: discord.Message):
             await msg.channel.send(f'Pong! {round(client.latency * 1000)}ms')
 
         if args[0] == "grab":
+            #grabbing id of the newest tweet from the last grab cycle
+            with open("dummy.json") as json_file:
+                data = json.load(json_file)
+                tweet_data = data["data"]
+                last_tweet = tweet_data[0]["id"]
+
             grab_tweets()
-            await msg.channel.send("Tweets grabbed")
+
+            tweets = []
+            with open("liked_tweets.json") as new_json:
+                data = json.load(new_json)
+                new_data = data["data"]
+                for tweet in new_data:
+                    if tweet["id"] == last_tweet:
+                         break
+                    else:
+                        await msg.channel.send(f'https://twitter.com/twitter/status/{tweet["id"]}')
+
+            #await msg.channel.send(f'https://twitter.com/twitter/status/{last_tweet}')
+            await msg.channel.send(f'in {round(client.latency * 1000)}ms')
 
 
 
