@@ -14,7 +14,7 @@ def create_url():
     # in_reply_to_user_id, lang, non_public_metrics, organic_metrics,
     # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
     # source, text, and withheld
-    tweet_fields = "tweet.fields=lang,author_id"
+    tweet_fields = "tweet.fields=lang,author_id,created_at,geo"
     # additional ids can be added with comma spacing
     id = "2973885323"
 
