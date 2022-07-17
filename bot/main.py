@@ -38,7 +38,7 @@ async def on_message(msg: discord.Message):
     if msg.author == client.user:
         return
 
-@tasks.loop(minutes=1.0)
+@tasks.loop(hours = 6.0)
 async def send_new_tweets():
     channel_id = int(os.environ.get('CHANNEL_ID'))
     channel = client.get_channel(channel_id)
