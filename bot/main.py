@@ -1,17 +1,14 @@
 import discord
 import json
-import datetime
+import os
 
 from discord.ext import commands
 from discord.ext import tasks
 from liked_tweets_grabber import grab_tweets
-from configparser import ConfigParser
 
 # setting up discordBot 
 client = discord.Client()
-conf = ConfigParser(interpolation=None)
-conf.read('config.ini')
-bot_id = conf['token']['bot_token']
+bot_id = os.environ.get('BOT_ID')
 
 @client.event
 async def on_ready():
@@ -23,15 +20,16 @@ async def on_message(msg: discord.Message):
     if msg.author == client.user:
         return
 
-@tasks.loop(hours=6.0)
+@tasks.loop(hours = 6.0)
 async def send_new_tweets():
-    channel = client.get_channel(conf['token']['channel_id'])
+    channel_id = int(os.environ.get('CHANNEL_ID'))
+    channel = client.get_channel(channel_id)
+
     #grabbing id of the newest tweet from the last grab cycle
     with open("liked_tweets.json") as json_file:
         data = json.load(json_file)
         tweet_data = data["data"]
         last_tweet = tweet_data[0]["id"]
-
     #updating json of liked tweets from twitter
     grab_tweets()
 
