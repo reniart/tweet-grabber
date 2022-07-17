@@ -42,9 +42,10 @@ async def on_message(msg: discord.Message):
                 tweet_data = data["data"]
                 last_tweet = tweet_data[0]["id"]
 
+            #updating json of liked tweets from twitter
             grab_tweets()
 
-            tweets = []
+            #posts all new tweets to discord
             with open("liked_tweets.json") as new_json:
                 data = json.load(new_json)
                 new_data = data["data"]
