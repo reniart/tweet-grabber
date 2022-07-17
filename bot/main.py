@@ -9,7 +9,7 @@ from liked_tweets_grabber import grab_tweets
 
 # setting up discordBot 
 client = discord.Client()
-bot_id = os.environ.get('TEST_ID')
+bot_id = os.environ.get('BOT_ID')
 
 #updates db file with json response
 def update_db(db_file, json_response):
