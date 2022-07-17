@@ -38,6 +38,7 @@ def connect_endpoint(url, tweet_fields):
         )
     return response.json()
 
+#grabs liked tweets as json
 def grab_tweets():
     url, tweet_fields = create_url()
     json_response = connect_endpoint(url, tweet_fields)

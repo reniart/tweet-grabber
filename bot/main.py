@@ -11,8 +11,7 @@ from liked_tweets_grabber import grab_tweets
 client = discord.Client()
 bot_id = os.environ.get('TEST_ID')
 
-#setting up sqlite db
-
+#updates db file with json response
 def update_db(db_file, json_response):
 
     connection = sqlite3.connect(db_file)
@@ -49,18 +48,18 @@ async def send_new_tweets():
     update_db('liked_tweets.db', grabbed_tweets)
 
     #connecting to sqlite db
-    connection = sqlite3.connect('liked_tweets.db')
-    cursor_liked = connection.cursor()
+    connection_liked = sqlite3.connect('liked_tweets.db')
+    cursor_liked = connection_liked.cursor()
 
-    connection = sqlite3.connect('sent_tweets.db')
-    cursor_sent= connection.cursor()
+    connection_sent = sqlite3.connect('sent_tweets.db')
+    cursor_sent= connection_sent.cursor()
 
     cursor_liked.execute('SELECT * FROM tweets')
     cursor_sent.execute('SELECT * FROM tweets')
 
     sent_table = cursor_sent.fetchall()
 
-    
+    #sending new tweets
     for i in cursor_liked:
         previously_sent = False
         for j in sent_table:
@@ -70,8 +69,13 @@ async def send_new_tweets():
         if not previously_sent:
             cursor_sent.execute('INSERT INTO tweets (id) VALUES (?)', (i[0],))
             await channel.send(f'https://twitter.com/twitter/status/{i[0]}')
+
+    #closing and commit db connections
+    connection_liked.commit()
+    connection_liked.close()
+    connection_sent.commit()
+    connection_sent.close()
  
     await channel.send(f'in {round(client.latency * 1000)}ms')
-
 
 client.run(bot_id)
