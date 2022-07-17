@@ -25,7 +25,7 @@ async def on_message(msg: discord.Message):
 
 @tasks.loop(hours=6.0)
 async def send_new_tweets():
-    channel = client.get_channel(998034366737436692)
+    channel = client.get_channel(conf['token']['channel_id'])
     #grabbing id of the newest tweet from the last grab cycle
     with open("liked_tweets.json") as json_file:
         data = json.load(json_file)
