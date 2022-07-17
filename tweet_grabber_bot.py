@@ -37,7 +37,7 @@ async def on_message(msg: discord.Message):
 
         if args[0] == "grab":
             #grabbing id of the newest tweet from the last grab cycle
-            with open("dummy.json") as json_file:
+            with open("liked_tweets.json") as json_file:
                 data = json.load(json_file)
                 tweet_data = data["data"]
                 last_tweet = tweet_data[0]["id"]
@@ -54,7 +54,6 @@ async def on_message(msg: discord.Message):
                     else:
                         await msg.channel.send(f'https://twitter.com/twitter/status/{tweet["id"]}')
 
-            #await msg.channel.send(f'https://twitter.com/twitter/status/{last_tweet}')
             await msg.channel.send(f'in {round(client.latency * 1000)}ms')
 
 
