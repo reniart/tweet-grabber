@@ -1,7 +1,9 @@
 import discord
 import json
+import datetime
 
 from discord.ext import commands
+from discord.ext import tasks
 from liked_tweets_grabber import grab_tweets
 from configparser import ConfigParser
 from typing import FrozenSet
@@ -21,6 +23,7 @@ commands: FrozenSet[str] = frozenset((
 @client.event
 async def on_ready():
     print("Bot is logged in as {0.user}".format(client))
+    send_new_tweets.start()
 
 @client.event
 async def on_message(msg: discord.Message):
@@ -35,29 +38,32 @@ async def on_message(msg: discord.Message):
             return
         
         if args[0] == "ping":
-            await msg.channel.send(f'Pong! {round(client.latency * 1000)}ms')
+            await msg.channel.send(f'Pong! {round(client.latency * 1000)}ms') 
 
-        if args[0] == "grab":
-            #grabbing id of the newest tweet from the last grab cycle
-            with open("liked_tweets.json") as json_file:
-                data = json.load(json_file)
-                tweet_data = data["data"]
-                last_tweet = tweet_data[0]["id"]
+@tasks.loop(minutes=1.0)
+async def send_new_tweets():
+    channel = client.get_channel(998034366737436692)
+    #grabbing id of the newest tweet from the last grab cycle
+    with open("liked_tweets.json") as json_file:
+        data = json.load(json_file)
+        tweet_data = data["data"]
+        last_tweet = tweet_data[0]["id"]
 
-            #updating json of liked tweets from twitter
-            grab_tweets()
+    #updating json of liked tweets from twitter
+    grab_tweets()
 
-            #posts all new tweets to discord
-            with open("liked_tweets.json") as new_json:
-                data = json.load(new_json)
-                new_data = data["data"]
-                for tweet in new_data:
-                    if tweet["id"] == last_tweet:
-                         break
-                    else:
-                        await msg.channel.send(f'https://twitter.com/twitter/status/{tweet["id"]}')
+    #posts all new tweets to discord
+    with open("liked_tweets.json") as new_json:
+        data = json.load(new_json)
+        new_data = data["data"]
+        for tweet in new_data:
+            if tweet["id"] == last_tweet:
+                break
 
-            await msg.channel.send(f'in {round(client.latency * 1000)}ms')
+            else:
+                await channel.send(f'https://twitter.com/twitter/status/{tweet["id"]}')
+
+    await channel.send(f'in {round(client.latency * 1000)}ms')
 
 
 
