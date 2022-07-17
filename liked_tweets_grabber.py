@@ -1,9 +1,14 @@
+#code sampled from twitterDev github
+
 import requests
-import os
 import json
 
+from configparser import ConfigParser
+
 # setting twitterDev project token
-bearer_token = os.environ.get("BEARER_TOKEN")
+conf = ConfigParser(interpolation=None)
+conf.read('config.ini')
+bearer_token = conf['token']['bearer_token']
 
 def create_url():
     # additional fields include:
@@ -14,7 +19,7 @@ def create_url():
     # source, text, and withheld
     tweet_fields = "tweet.fields="
     # additional ids can be added with comma spacing
-    id = os.environ.get("TWITTER_ID")
+    id = conf['token']['twitter_id']
 
     url = "https://api.twitter.com/2/users/{}/liked_tweets".format(id)
     return url, tweet_fields

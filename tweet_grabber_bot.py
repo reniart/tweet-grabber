@@ -1,14 +1,16 @@
 import discord
-import os
 import json
 
 from discord.ext import commands
 from liked_tweets_grabber import grab_tweets
+from configparser import ConfigParser
 from typing import FrozenSet
 
 # setting up discordBot 
 client = discord.Client()
-bot_id = os.environ.get("TWEET_GRABBER")
+conf = ConfigParser(interpolation=None)
+conf.read('config.ini')
+bot_id = conf['token']['bot_token']
 
 #discord command set
 commands: FrozenSet[str] = frozenset((
