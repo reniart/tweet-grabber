@@ -75,7 +75,5 @@ async def send_new_tweets():
     connection_liked.close()
     connection_sent.commit()
     connection_sent.close()
- 
-    await channel.send(f'in {round(client.latency * 1000)}ms')
 
 client.run(bot_id)
