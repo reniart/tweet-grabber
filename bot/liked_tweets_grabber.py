@@ -4,8 +4,6 @@ import requests
 import json
 import os
 
-from configparser import ConfigParser
-
 # setting twitterDev project token
 bearer_token = os.environ.get('BEARER_TOKEN')
 
@@ -44,8 +42,7 @@ def grab_tweets():
     url, tweet_fields = create_url()
     json_response = connect_endpoint(url, tweet_fields)
 
-    with open("liked_tweets.json", 'w') as grabbed_tweets:
-        grabbed_tweets.write(json.dumps(json_response, indent=4, sort_keys=True))
+    return json_response
 
 
 
