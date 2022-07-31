@@ -1,5 +1,4 @@
 #code sampled from twitterDev github
-
 import requests
 import json
 import os
@@ -44,8 +43,3 @@ def grab_tweets():
     json_response = connect_endpoint(url, tweet_fields)
 
     return json_response
-
-
-
-
-
